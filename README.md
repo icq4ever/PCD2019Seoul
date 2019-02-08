@@ -1,6 +1,6 @@
 # PCD 2019 Seoul
-Processing Community Day 2019 @seoul
-프로세싱 커뮤니
+Processing Community Day 2019 @Seoul
+프로세싱 커뮤니티 
 
 ----------
 # p5 가지고 놀기
