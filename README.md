@@ -8,7 +8,7 @@ Processing Community Day 2019 @Seoul
 Lauren McCarthy 에 의해 제공
 
 ## Setup (10분)
-1. p5.js 웹 에디터를 사용해 시작해보려 합니다. [http://alpha.editor.p5js.org](http://alpha.editor.p5js.org){:target="_blank"} 에서 사용할 수 있습니다.
+1. p5.js 웹 에디터를 사용해 시작해보려 합니다. <a target="blank" href="http://alpha.editor.p5js.org">http://alpha.editor.p5js.org</a> 에서 사용할 수 있습니다.
 2. 계정을 생성해 등록하고, 여러분의 첫 프로젝트의 이름을 선택하여 저장하세요.
 3. p5.js를 시작할 준비가 되었습니다!
 
