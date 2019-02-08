@@ -8,7 +8,7 @@ Processing Community Day 2019 @Seoul
 Lauren McCarthy 에 의해 제공
 
 ## Setup (10분)
-1. p5.js 웹 에디터를 사용해 시작해보려 합니다. <a href="http://alpha.editor.p5js.org" target="_blank">http://alpha.editor.p5js.org</a> 에서 사용할 수 있습니다.
+1. p5.js 웹 에디터를 사용해 시작해보려 합니다. <a href="http://alpha.editor.p5js.org" target="_blank">http://alpha.editor.p5js.org</a> (새탭으로 열기 위해 윈도우/리눅스:Ctrl+click , 매킨토시:Cmd+click)에서 사용할 수 있습니다.
 2. 계정을 생성해 등록하고, 여러분의 첫 프로젝트의 이름을 선택하여 저장하세요.
 3. p5.js를 시작할 준비가 되었습니다!
 
@@ -77,7 +77,6 @@ second();
 ## 더 나아가서
 
 아래는 p5.js와 코딩에 대해 보다 더 많은 도움이 되는 자료들입니다.
-[](https://discourse.processing.org/c/p5js)
 - [p5.js 포럼](https://discourse.processing.org/c/p5js) - p5.js 프로그래밍에 관해 질문하는 곳입니다
 - [Daniel Shiffman의 코딩 연습 강좌 시리즈](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) - p5.js 비디오 튜토리얼
 - [Getting Started with p5.js](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772) - Lauren McCarthy, Casey Reas, Ben Fry 작성
