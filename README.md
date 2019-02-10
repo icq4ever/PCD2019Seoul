@@ -5,7 +5,7 @@ Processing Community Day 2019 @Seoul<br/>
 ----------
 # p5 가지고 놀기
 
-[Lauren McCarthy](https://github.com/lmccart) 작성<br/>
+제작 : [Lauren McCarthy](https://github.com/lmccart)<br/>
 번역 : [Yi donghoon](https://github.com/icq4ever)
 
 ## Setup (10분)
