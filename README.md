@@ -5,7 +5,8 @@ Processing Community Day 2019 @Seoul<br/>
 ----------
 # p5 가지고 놀기
 
-Lauren McCarthy 에 의해 제공
+[Lauren McCarthy](https://github.com/lmccart) 작성<br/>
+번역 : [Yi donghoon](https://github.com/icq4ever)
 
 ## Setup (10분)
 1. p5.js 웹 에디터를 사용해 시작해보려 합니다. <a href="http://alpha.editor.p5js.org" target="_blank">http://alpha.editor.p5js.org</a> 에서 사용할 수 있습니다. <br/>  (<strong>새탭으로 열기</strong> 윈도우/리눅스:Ctrl+click , 매킨토시:Cmd+click)
