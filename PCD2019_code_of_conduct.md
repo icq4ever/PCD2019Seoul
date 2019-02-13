@@ -2,7 +2,7 @@
 
 | original Code of Conduct from [PCD 2019 Organizer's Kit](https://day.processing.org/doc/PCDOrganizer'sKit.pdf), page 5-10.
 
-All participants in Processing Community Day (PCD) - including, but not limited to the PCD online forum are required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, work-shop leaders, patrons (sponsors), volunteers, and staff.
+All participants in Processing Community Day (PCD) - including, but not limited to the PCD online forum are required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, workshop leaders, patrons (sponsors), volunteers, and staff.
 
 The PCD team is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
 
