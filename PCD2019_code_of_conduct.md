@@ -11,7 +11,7 @@ Anyone participant who violates this Code of Conduct may be sanctioned or expell
 This Code of Conduct is subject to change and expansion. Last updated August 27, 2018.
 
 ### Be mindful of your language 
-Engage with community members, mentors, and contrib-utors with respect and good intention.
+Engage with community members, mentors, and contributors with respect and good intention.
 
 ### Use your best judgement
 If it will possibly make others uncomfortable, do not say it or post to the community forum.
@@ -47,20 +47,20 @@ PCD prioritizes marginalized people's safety over privileged people's comfort. P
 - 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
 - Reasonable communication of boundaries, such as "leave me alone," "go away," or "I’m not discussing this with you."
 - Communicating in a 'tone' you don’t find congenial
-- Criticizing racist, sexist, cissexist, or otherwise op-pressive behavior or assumptions
+- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 ## Consequences, Reporting and Enforcement on Processing Community Day
-Please contact Xin Xin, Dorothy Santos, Johanna Hed-va, Lauren McCarthy, Casey Reas, or Dan Shiffman listed on [day.processing.org/people](https://day.processing.org/people). This team of organizers will be trained in how to address and report any incidents attendees bring to our attention. You may also contact us via email at [day@processing.org](mailto:day@processing.org).
+Please contact Xin Xin, Dorothy Santos, Johanna Hedva, Lauren McCarthy, Casey Reas, or Dan Shiffman listed on [day.processing.org/people](https://day.processing.org/people). This team of organizers will be trained in how to address and report any incidents attendees bring to our attention. You may also contact us via email at [day@processing.org](mailto:day@processing.org).
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the PCD team may take action we deem appropriate, up to and including expulsion from all PCD spaces (both on and offline) and identification of the participant as a harasser to other PCD community members and/or the general public.
 
 ## Forum - [discourse.processing.org](https://discourse.processing.org)
 Please contact a PCD organizer via direct message. If the person who is harassing you is a member of staff, they will recuse themselves from handling your incident. All reports will be handled in the strictest confidence. 
-If you believe someone is violating the code of con-duct on the forum, we ask you report it by sending an email to [day@processing.org](mailto:day@processing.org). Please include your name and a description of the incident, and we respond as quickly as possible
+If you believe someone is violating the code of conduct on the forum, we ask you report it by sending an email to [day@processing.org](mailto:day@processing.org). Please include your name and a description of the incident, and we respond as quickly as possible
 
 ## Acknowledgements
-This Code of Conduct was compiled by Dorothy San-tos, based on resources provided by Geek Feminism, and borrows heavily from open source policies au-thored by p5.js and XOXO Festival.
+This Code of Conduct was compiled by Dorothy Santos, based on resources provided by Geek Feminism, and borrows heavily from open source policies authored by p5.js and XOXO Festival.
 
 Thank you also to Lauren McCarthy, Johanna Hedva, and Xin Xin for their advice and support.
 
-This policy is licensed under a Creative Commons Attri-bution 4.0 International license and on the Processing Community Day website. We encourage other organiza-tions to adopt (and enforce) similar Codes of Conduct by using and remixing this one.
+This policy is licensed under a Creative Commons Attribution 4.0 International license and on the Processing Community Day website. We encourage other organizations to adopt (and enforce) similar Codes of Conduct by using and remixing this one.
